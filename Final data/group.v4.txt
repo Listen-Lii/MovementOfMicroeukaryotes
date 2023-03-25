@@ -1,0 +1,91 @@
+sample	habitat	park
+DLSm01	Moss	DLS
+DLSm02	Moss	DLS
+DLSm03	Moss	DLS
+DLSs01	Soil	DLS
+DLSs02	Soil	DLS
+DLSs03	Soil	DLS
+DLSse01	Sediment	DLS
+DLSse02	Sediment	DLS
+DLSse03	Sediment	DLS
+DLSt01	Tree hole	DLS
+DLSt02	Tree hole	DLS
+DLSt03	Tree hole	DLS
+DLSw202001	Water	DLS
+DLSw202002	Water	DLS
+DLSw202003	Water	DLS
+DPSm01	Moss	DPS
+DPSm02	Moss	DPS
+DPSm03	Moss	DPS
+DPSs202001	Soil	DPS
+DPSs202002	Soil	DPS
+DPSs202003	Soil	DPS
+DPSse01	Sediment	DPS
+DPSse02	Sediment	DPS
+DPSse03	Sediment	DPS
+DPSt01	Tree hole	DPS
+DPSt02	Tree hole	DPS
+DPSt03	Tree hole	DPS
+DPSw202001	Water	DPS
+DPSw202002	Water	DPS
+DPSw202003	Water	DPS
+HLm01	Moss	HL
+HLm02	Moss	HL
+HLm03	Moss	HL
+HLs202001	Soil	HL
+HLs202002	Soil	HL
+HLs202003	Soil	HL
+HLse01	Sediment	HL
+HLse02	Sediment	HL
+HLse03	Sediment	HL
+HLt01	Tree hole	HL
+HLt02	Tree hole	HL
+HLt03	Tree hole	HL
+HLw202001	Water	HL
+HLw202002	Water	HL
+HLw202003	Water	HL
+SLTm01	Moss	SLT
+SLTm02	Moss	SLT
+SLTm03	Moss	SLT
+SLTs202001	Soil	SLT
+SLTs202002	Soil	SLT
+SLTs202003	Soil	SLT
+SLTse01	Sediment	SLT
+SLTse02	Sediment	SLT
+SLTse03	Sediment	SLT
+SLTt01	Tree hole	SLT
+SLTt02	Tree hole	SLT
+SLTt03	Tree hole	SLT
+SLTw202001	Water	SLT
+SLTw202002	Water	SLT
+SLTw202003	Water	SLT
+SLm01	Moss	SL
+SLm02	Moss	SL
+SLm03	Moss	SL
+SLs01	Soil	SL
+SLs02	Soil	SL
+SLs03	Soil	SL
+SLse01	Sediment	SL
+SLse02	Sediment	SL
+SLse03	Sediment	SL
+SLt01	Tree hole	SL
+SLt02	Tree hole	SL
+SLt03	Tree hole	SL
+SLw202001	Water	SL
+SLw202002	Water	SL
+SLw202003	Water	SL
+XSm01	Moss	XS
+XSm02	Moss	XS
+XSm03	Moss	XS
+XSs202001	Soil	XS
+XSs202002	Soil	XS
+XsSs202003	Soil	XS
+XSse01	Sediment	XS
+XSse02	Sediment	XS
+XSse03	Sediment	XS
+XSt01	Tree hole	XS
+XSt02	Tree hole	XS
+XSt03	Tree hole	XS
+XSw202001	Water	XS
+XSw202002	Water	XS
+XSw202003	Water	XS
