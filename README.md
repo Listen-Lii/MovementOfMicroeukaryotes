@@ -1,5 +1,10 @@
 ### Here are R scripts for "*Linking biodiversity and ecological function through extensive microeukaryotic movement across different habitats in six urban parks*" published in iMeta.
 #### If you use my code, please cite this paper in your article.
+
+How to cite this article: 
+
+Li, Shuzhen, Kexin Ren, Xue Yan, Andrey N. Tsyganov, Yuri Mazei, Alexey Smirnov, Natalia Mazei, Yiyue Zhang, Christopher Rensing, and Jun Yang. 2023. “Linking Biodiversity and Ecological Function Through Extensive Microeukaryotic Movement Across Different Habitats in Six Urban Parks.” iMeta.e103. https://doi.org/10.1002/imt2.103
+
 #### These scripts have been validated using my data (in Final data folder). Please do not hesitate to contact me (*szli@iue.ac.cn*) if there is any bug during running these scripts.
 ---
 ## About this paper:
