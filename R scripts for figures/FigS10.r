@@ -85,7 +85,7 @@ if(TRUE){
   res$otu = rownames(otus3)
   res = na.omit(res)
   
-  res$otu = paste("Z",res$otu,sep="")
+  #res$otu = paste("Z",res$otu,sep="")
   aa = na.omit(match(res$otu,rownames(fun.v4)))
   tax2 = fun.v4[aa,]
   res2 = res[na.omit(match(rownames(tax2),res$otu)),]  
